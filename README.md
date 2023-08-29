@@ -1,17 +1,8 @@
-# Snake Game
+# Slithering Feast
 
 ## Description
 Welcome to the classic Snake Game! This Python-based project utilizes the pygame library to bring the nostalgia of the timeless Snake game to life. Control a snake as it navigates the game board, consuming food to grow longer. Be cautious and avoid running into the walls or colliding with yourself, as this will result in the game ending. Your objective is to achieve the highest score possible by eating as much food as you can without colliding.
 
-## Project Name: Slithering Feast
-
-Slithering Feast is a fitting name for this Snake Game project. It captures the essence of the gameplay where the snake feasts on food to grow longer.
-
-## Dependencies
-This project requires the installation of certain Python libraries. To install them, simply run the following command:
-```bash
-pip install -r requirements.txt
-```
 
 ## How to Run
 
